@@ -1,5 +1,5 @@
 # xmrpriced
-Displays XMR equivalents alongside USD prices on major online shopping sites.
+Displays XMR equivalents alongside USD prices on major online shopping sites. Can also see live $XMR price along with some network stats. 
 
 Install your Chrome extension here:
 https://chromewebstore.google.com/detail/jncpmdbbaihkmhjpajjkcglmckniijah?utm_source=item-share-cb
